@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter Hase"
+title                    : "Viet H. Pham"
 title_separator          : "-"
-name                     : &name Peter Hase"
-description              : &description "Peter Hase"
-url                      : https://peterbhase.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name Viet H. Pham"
+description              : &description "Viet H. Pham"
+url                      : https://vietph34.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "peterbhase/peterbhase.github.io"
+repository               : "vietph34/vietph34.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peter Hase"
-  avatar           : "s2.jpg"
-  bio              : "PhD student at UNC-NLP, advised by Mohit Bansal. Interested in interpretable ML, natural language processing, AI Safety, and Effective Altruism."
-  location         : "Chapel Hill, NC"
+  name             : "Viet H. Pham"
+  avatar           : "DSC02965.jpeg"
+  bio              : "PhD student at Auburn University."
+  location         : "Auburn, AL"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "peter@cs.unc.edu"
+  email            : "viethungpham0304@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "peterbhase"
+  github           : "vietph34"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "peter-hase"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
