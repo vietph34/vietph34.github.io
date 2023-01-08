@@ -29,6 +29,6 @@ Long Nguyen, <u>Viet Pham</u>, H. Minh, D. Dinh, and T. Manh\
 Long H.B. Nguyen*, <u>Viet Pham*</u> and Dien Dinh\
 *7th NAFOSTED Conference on Information and Computer Science (NICS), 2020* [[pdf]](https://ieeexplore.ieee.org/document/9335896)
 
-**Nemantic Convolutional Neural Machine Translation Using AMR for English-Vietnamese**  
+**Semantic Convolutional Neural Machine Translation Using AMR for English-Vietnamese**  
 <u>Viet Pham</u>, Long H. B. Nguyen, and Dien Dinh\
 *The 2020 International Conference on Computer Communication and Information Systems (CCCIS 2020)*
