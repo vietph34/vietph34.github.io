@@ -16,12 +16,12 @@ redirect_from:
 
 ## About Me
 
-I completed my Bachelor of Science Degree in Computer Science at the University of Science in
-Vietnam, advised by Assoc. Prof. Dien Dinh. My bachelor’s thesis focused on Natural Language Processing
-(NLP) and Theoretical Linguistics, in which I integrated the Abstract Meaning Representation (AMR)
+I completed my Bachelor of Science Degree in Computer Science at the [University of Science](https://hcmus.edu.vn/) in
+Vietnam, advised by [Assoc. Prof. Dien Dinh](http://www.clc.hcmus.edu.vn/ddien). My bachelor’s thesis focused on Natural Language Processing
+(NLP) and Theoretical Linguistics, in which I integrated the [Abstract Meaning Representation (AMR)](https://amr.isi.edu/)
 semantic graph into Neural Machine Translation. After graduating, I worked in the IT industry for more
-than one year as an AI Engineer. Meanwhile, I am also a research assistant at the Computational Linguistic
-Center (HCMUS), advised by Assoc. Prof. Dien Dinh. My research interests include machine translation,
+than one year as an AI Engineer. Meanwhile, I am also a research assistant at the [Computational Linguistic
+Center (HCMUS)](http://www.clc.hcmus.edu.vn/), advised by Assoc. Prof. Dien Dinh. My research interests include machine translation,
 language modeling, and QA. 
 
 *Email:* viethungpham0304@gmail.com
