@@ -7,7 +7,7 @@ author_profile: true
 
 ## Talks
 
-**University of Oxford**  
+<!-- **University of Oxford**  
 “Explainable Machine Learning in NLP: Methods and Evaluation” [[slides]](https://peterbhase.github.io/files/ExplainableMachineLearningNLPSlides.pdf)
 
 **NEC Laboratories Europe**  
@@ -23,6 +23,6 @@ author_profile: true
 “The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations” [[slides](https://peterbhase.github.io/files/OODProblemAndSearchUberAI.pdf)]
 
 **Center for Human Compatible AI (CHAI), UC Berkeley**  
-“Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?” [[slides](https://peterbhase.github.io/files/evaluating_explainable_AI_slides.pdf)]
+“Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?” [[slides](https://peterbhase.github.io/files/evaluating_explainable_AI_slides.pdf)] -->
 
 
