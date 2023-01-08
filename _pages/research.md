@@ -7,6 +7,7 @@ permalink: /research/
 ---
 
 ## Research
+(*) Equal contributors
 
 **Semi-supervised Neural Machine Translation with Consistency Regularization**  
 <u>Viet H. Pham</u>, Thang M. Pham*, Giang Nguyen*, Long Nguyen, Dien Dinh\
