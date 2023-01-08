@@ -30,5 +30,4 @@ Long H.B. Nguyen*, <u>Viet Pham*</u> and Dien Dinh\
 
 **Nemantic Convolutional Neural Machine Translation Using AMR for English-Vietnamese**  
 <u>Viet Pham</u>, Long H. B. Nguyen, and Dien Dinh\
-*The 2020 International Conference on Computer Communication and Information Systems
-(CCCIS 2020)*
+*The 2020 International Conference on Computer Communication and Information Systems (CCCIS 2020)*
